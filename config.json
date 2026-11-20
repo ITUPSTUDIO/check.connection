@@ -19,25 +19,25 @@
     "Height": 85
   },
   "DnsBanner": {
-    "Enabled": false,
+    "Enabled": true,
     "ImageUrl": "https://www.picofile.com/f/i8TRKRMolN/1786191205612.gif",
     "ClickUrl": "",
     "Height": 85
   },
   "RadarBanner": {
-    "Enabled": false,
+    "Enabled": true,
     "ImageUrl": "https://www.picofile.com/f/i8TRKRMolN/1786191205612.gif",
     "ClickUrl": "",
     "Height": 85
   },
   "IpBanner": {
-    "Enabled": false,
+    "Enabled": true,
     "ImageUrl": "https://www.picofile.com/f/i8TRKRMolN/1786191205612.gif",
     "ClickUrl": "",
     "Height": 85
   },
   "SettingsBanner": {
-    "Enabled": false,
+    "Enabled": true
     "ImageUrl": "https://www.picofile.com/f/i8TRKRMolN/1786191205612.gif",
     "ClickUrl": "",
     "Height": 85
