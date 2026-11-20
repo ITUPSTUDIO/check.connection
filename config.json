@@ -1,10 +1,10 @@
 
 {
-  "AppStatus": "Active",
+  "AppStatus": "TempDisabled",
   "StatusMessage": "",
   "LatestVersion": "1.00036",
   "MinRequiredVersion": "1.00035",
-  "ForceUpdateMessage": "بروزرسانی جدید منتشر شده است.",
+  "ForceUpdateMessage": "سرویس موقتا غیر فعال می باشد لطفا بعد از مدتی مجددا امتحان کنید. ",
   "UpdateDownloadUrl": "",
   "IsProEnabled": false
 }
