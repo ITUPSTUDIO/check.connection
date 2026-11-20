@@ -8,37 +8,37 @@
   "IsProEnabled": false,
   "PingBanner": {
     "Enabled": true,
-    "ImageUrl": "https://example.com/banners/ping-sponsor.gif",
-    "ClickUrl": "https://sponsor-site.com",
+    "ImageUrl": "https://www.picofile.com/f/i8TRKRMolN/1786191205612.gif",
+    "ClickUrl": "https://google.com",
     "Height": 85
   },
   "NetworkBanner": {
     "Enabled": true,
-    "ImageUrl": "https://example.com/banners/network-sponsor.png",
+    "ImageUrl": "https://www.picofile.com/f/i8TRKRMolN/1786191205612.gif",
     "ClickUrl": "https://sponsor-site.com",
     "Height": 85
   },
   "DnsBanner": {
     "Enabled": false,
-    "ImageUrl": "",
+    "ImageUrl": "https://www.picofile.com/f/i8TRKRMolN/1786191205612.gif",
     "ClickUrl": "",
     "Height": 85
   },
   "RadarBanner": {
     "Enabled": false,
-    "ImageUrl": "",
+    "ImageUrl": "https://www.picofile.com/f/i8TRKRMolN/1786191205612.gif",
     "ClickUrl": "",
     "Height": 85
   },
   "IpBanner": {
     "Enabled": false,
-    "ImageUrl": "",
+    "ImageUrl": "https://www.picofile.com/f/i8TRKRMolN/1786191205612.gif",
     "ClickUrl": "",
     "Height": 85
   },
   "SettingsBanner": {
     "Enabled": false,
-    "ImageUrl": "",
+    "ImageUrl": "https://www.picofile.com/f/i8TRKRMolN/1786191205612.gif",
     "ClickUrl": "",
     "Height": 85
   }
