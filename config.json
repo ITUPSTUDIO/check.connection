@@ -40,7 +40,7 @@
     "Height": 85
   },
   "SettingsBanner": {
-    "Enabled": true
+    "Enabled": true,
     "ImageUrl": "https://static.shahrekhabar.com/banner/1405/1786191205612.gif",
     "ClickUrl": "https://google.com",
     "Height": 85
