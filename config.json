@@ -2,8 +2,8 @@
 {
   "AppStatus": "Active",
   "StatusMessage": "",
-  "LatestVersion": "1.0.0",
-  "MinRequiredVersion": "1.0.0",
+  "LatestVersion": "1.00036",
+  "MinRequiredVersion": "1.00035",
   "ForceUpdateMessage": "بروزرسانی جدید منتشر شده است.",
   "UpdateDownloadUrl": "",
   "IsProEnabled": false
