@@ -3,7 +3,43 @@
   "StatusMessage": "",
   "LatestVersion": "1.00036",
   "MinRequiredVersion": "1.00035",
-  "ForceUpdateMessage": "A new version is available.",
+  "ForceUpdateMessage": "بروزرسانی جدید منتشر شده است.",
   "UpdateDownloadUrl": "",
-  "IsProEnabled": false
+  "IsProEnabled": false,
+  "PingBanner": {
+    "Enabled": true,
+    "ImageUrl": "https://example.com/banners/ping-sponsor.gif",
+    "ClickUrl": "https://sponsor-site.com",
+    "Height": 85
+  },
+  "NetworkBanner": {
+    "Enabled": true,
+    "ImageUrl": "https://example.com/banners/network-sponsor.png",
+    "ClickUrl": "https://sponsor-site.com",
+    "Height": 85
+  },
+  "DnsBanner": {
+    "Enabled": false,
+    "ImageUrl": "",
+    "ClickUrl": "",
+    "Height": 85
+  },
+  "RadarBanner": {
+    "Enabled": false,
+    "ImageUrl": "",
+    "ClickUrl": "",
+    "Height": 85
+  },
+  "IpBanner": {
+    "Enabled": false,
+    "ImageUrl": "",
+    "ClickUrl": "",
+    "Height": 85
+  },
+  "SettingsBanner": {
+    "Enabled": false,
+    "ImageUrl": "",
+    "ClickUrl": "",
+    "Height": 85
+  }
 }
