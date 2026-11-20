@@ -6,11 +6,13 @@
   "ForceUpdateMessage": "بروزرسانی جدید منتشر شده است.",
   "UpdateDownloadUrl": "",
   "IsProEnabled": false,
+
+  
   "PingBanner": {
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
     "ClickUrl": "https://google.com",
-    "Width": 900,
+    "Width": 970,
     "Height": 200,
     "FitMode": "Fill"
   },
@@ -18,7 +20,7 @@
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
     "ClickUrl": "https://google.com",
-    "Width": 900,
+    "Width": 970,
     "Height": 200,
     "FitMode": "Fill"
   },
@@ -26,7 +28,7 @@
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
     "ClickUrl": "https://google.com",
-    "Width": 900,
+    "Width": 970,
     "Height": 200,
     "FitMode": "Fill"
   },
@@ -34,7 +36,7 @@
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
     "ClickUrl": "https://google.com",
-    "Width": 900,
+    "Width": 970,
     "Height": 200,
     "FitMode": "Fill"
   },
@@ -42,7 +44,7 @@
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
     "ClickUrl": "https://google.com",
-    "Width": 900,
+    "Width": 970,
     "Height": 200,
     "FitMode": "Fill"
   },
@@ -50,7 +52,7 @@
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
     "ClickUrl": "https://google.com",
-    "Width": 900,
+    "Width": 970,
     "Height": 200,
     "FitMode": "Fill"
   }
