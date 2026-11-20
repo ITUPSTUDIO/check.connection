@@ -10,36 +10,36 @@
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
     "ClickUrl": "https://google.com",
-    "Height": 85
+    "Height": 200
   },
   "NetworkBanner": {
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
     "ClickUrl": "https://google.com",
-    "Height": 85
+    "Height": 200
   },
   "DnsBanner": {
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
     "ClickUrl": "https://google.com",
-    "Height": 85
+    "Height": 200
   },
   "RadarBanner": {
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
     "ClickUrl": "https://google.com",
-    "Height": 85
+    "Height": 200
   },
   "IpBanner": {
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
     "ClickUrl": "https://google.com",
-    "Height": 85
+    "Height": 200
   },
   "SettingsBanner": {
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
     "ClickUrl": "https://google.com",
-    "Height": 85
+    "Height": 200
   }
 }
