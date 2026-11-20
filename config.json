@@ -15,31 +15,31 @@
   "NetworkBanner": {
     "Enabled": true,
     "ImageUrl": "https://static.shahrekhabar.com/banner/1405/1786191205612.gif",
-    "ClickUrl": "https://sponsor-site.com",
+    "ClickUrl": "https://google.com",
     "Height": 85
   },
   "DnsBanner": {
     "Enabled": true,
     "ImageUrl": "https://static.shahrekhabar.com/banner/1405/1786191205612.gif",
-    "ClickUrl": "",
+    "ClickUrl": "https://google.com",
     "Height": 85
   },
   "RadarBanner": {
     "Enabled": true,
     "ImageUrl": "https://static.shahrekhabar.com/banner/1405/1786191205612.gif",
-    "ClickUrl": "",
+    "ClickUrl": "https://google.com",
     "Height": 85
   },
   "IpBanner": {
     "Enabled": true,
     "ImageUrl": "https://static.shahrekhabar.com/banner/1405/1786191205612.gif",
-    "ClickUrl": "",
+    "ClickUrl": "https://google.com",
     "Height": 85
   },
   "SettingsBanner": {
     "Enabled": true
     "ImageUrl": "https://static.shahrekhabar.com/banner/1405/1786191205612.gif",
-    "ClickUrl": "",
+    "ClickUrl": "https://google.com",
     "Height": 85
   }
 }
