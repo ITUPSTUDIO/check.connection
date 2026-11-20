@@ -1,0 +1,29 @@
+{
+  "AppStatus": "TempDisabled",
+  "StatusMessage": "سرورها و سرویس‌های شبکه به دلیل تعمیرات فنی و زیرساختی موقتاً غیرفعال هستند. لطفاً دقایقی دیگر تلاش کنید.",
+  "LatestVersion": "1.0.0",
+  "MinRequiredVersion": "1.0.0",
+  "ForceUpdateMessage": "بروزرسانی جدید منتشر شده است.",
+  "UpdateDownloadUrl": "",
+  "IsProEnabled": false
+}
+
+{
+  "AppStatus": "PermDisabled",
+  "StatusMessage": "پشتیبانی و ارائه این نسخه به صورت دائم متوقف شده است.",
+  "LatestVersion": "1.0.0",
+  "MinRequiredVersion": "1.0.0",
+  "ForceUpdateMessage": "",
+  "UpdateDownloadUrl": "",
+  "IsProEnabled": false
+}
+
+{
+  "AppStatus": "Active",
+  "StatusMessage": "",
+  "LatestVersion": "1.1.0",
+  "MinRequiredVersion": "1.1.0",
+  "ForceUpdateMessage": "برای ادامه استفاده از نرم‌افزار، نصب نسخه جدید اجباری است.",
+  "UpdateDownloadUrl": "https://example.com/NetPulsePro-v1.1.0.exe",
+  "IsProEnabled": false
+}
