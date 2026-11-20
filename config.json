@@ -8,38 +8,50 @@
   "IsProEnabled": false,
   "PingBanner": {
     "Enabled": true,
-    "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
+    "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/main/banner.gif",
     "ClickUrl": "https://google.com",
-    "Height": 200
+    "Width": 0,
+    "Height": 85,
+    "FitMode": "Fill"
   },
   "NetworkBanner": {
     "Enabled": true,
-    "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
+    "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/main/banner.gif",
     "ClickUrl": "https://google.com",
-    "Height": 200
+    "Width": 0,
+    "Height": 85,
+    "FitMode": "Fill"
   },
   "DnsBanner": {
     "Enabled": true,
-    "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
+    "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/main/banner.gif",
     "ClickUrl": "https://google.com",
-    "Height": 200
+    "Width": 0,
+    "Height": 85,
+    "FitMode": "Fill"
   },
   "RadarBanner": {
     "Enabled": true,
-    "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
+    "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/main/banner.gif",
     "ClickUrl": "https://google.com",
-    "Height": 200
+    "Width": 0,
+    "Height": 85,
+    "FitMode": "Fill"
   },
   "IpBanner": {
     "Enabled": true,
-    "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
+    "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/main/banner.gif",
     "ClickUrl": "https://google.com",
-    "Height": 200
+    "Width": 0,
+    "Height": 85,
+    "FitMode": "Fill"
   },
   "SettingsBanner": {
     "Enabled": true,
-    "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
+    "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/main/banner.gif",
     "ClickUrl": "https://google.com",
-    "Height": 200
+    "Width": 0,
+    "Height": 85,
+    "FitMode": "Fill"
   }
 }
