@@ -6,6 +6,9 @@
   "ForceUpdateMessage": "بروزرسانی جدید منتشر شده است.",
   "UpdateDownloadUrl": "",
   "IsProEnabled": false,
+
+
+  
   "PingBanner": {
     "Enabled": true,
     "ImageUrl": "https://static.shahrekhabar.com/banner/1405/1786191205612.gif",
