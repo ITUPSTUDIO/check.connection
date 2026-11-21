@@ -11,8 +11,7 @@
     { "Port": 443, "Label": "HTTPS" },
     { "Port": 3074, "Label": "Gaming / CoD" },
     { "Port": 27015, "Label": "Steam" }
-  ]
-}
+  ],
   "PingBanner": {
     "Enabled": true,
     "ImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/xgamesstore970-2.gif",
