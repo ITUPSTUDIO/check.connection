@@ -10,8 +10,10 @@
   "bannerSubtitle": "Advertise",
   "bannerBadgeText": "SPONSOR",
   "bannerLinkUrl": "https://google.com",
+  "bannerMediaUrl": "",
   "bannerImageUrl": "https://raw.githubusercontent.com/ITUPSTUDIO/check.connection/refs/heads/main/psnex-970x200.gif",
   "bannerWidth": 970,
   "bannerHeight": 200,
- 
+  "bannerMediaWidth": 0,
+  "bannerMediaHeight": 0,
 }
