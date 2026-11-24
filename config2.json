@@ -6,9 +6,9 @@
   "appEnabled": true,
   "disabledMessage": "NFP SAT is temporarily disabled by administrator for scheduled maintenance.",
   "bannerEnabled": true,
-  "bannerTitle": "NFP SAT — Live Satellite & Frequency Monitor",
-  "bannerSubtitle": "Real-time orbital feeds (0.6°W – 75.0°E) • Click to open link",
+  "bannerTitle": "Best Choice",
+  "bannerSubtitle": "Advertise",
   "bannerBadgeText": "SPONSOR",
-  "bannerLinkUrl": "https://en.kingofsat.net",
-  "bannerImageUrl": ""
+  "bannerLinkUrl": "https://google.com",
+  "bannerImageUrl": "https://github.com/ITUPSTUDIO/check.connection/blob/main/gpgaming-8.webm"
 }
