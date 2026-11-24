@@ -1,0 +1,14 @@
+{
+  "appVersion": "V 0.004",
+  "forceUpdate": false,
+  "updateMessage": "A mandatory update for NFP SAT is available. Please download the latest version to continue.",
+  "downloadUrl": "https://github.com/OWNER/REPO/releases/latest",
+  "appEnabled": true,
+  "disabledMessage": "NFP SAT is temporarily disabled by administrator for scheduled maintenance.",
+  "bannerEnabled": true,
+  "bannerTitle": "NFP SAT — Live Satellite & Frequency Monitor",
+  "bannerSubtitle": "Real-time orbital feeds (0.6°W – 75.0°E) • Click to open link",
+  "bannerBadgeText": "SPONSOR",
+  "bannerLinkUrl": "https://en.kingofsat.net",
+  "bannerImageUrl": ""
+}
