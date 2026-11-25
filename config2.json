@@ -3,7 +3,7 @@
   "forceUpdate": false,
   "updateMessage": "A mandatory update for NFP SAT is available. Please download the latest version to continue.",
   "downloadUrl": "https://github.com/OWNER/REPO/releases/latest",
-  "appEnabled": true,
+  "appEnabled": false,
   "disabledMessage": "NFP SAT is temporarily disabled by administrator for scheduled maintenance.",
   "bannerEnabled": true,
   "bannerTitle": "Best Choice",
