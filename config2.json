@@ -1,6 +1,6 @@
 {
-  "appVersion": "V 0.005",
-  "forceUpdate": true,
+  "appVersion": "V 0.004",
+  "forceUpdate": false,
   "updateMessage": "A mandatory update for NFP SAT is available. Please download the latest version to continue.",
   "downloadUrl": "https://github.com/",
   "appEnabled": true,
